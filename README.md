@@ -1,10 +1,10 @@
 # NeetCode-Blind-75
 
 ## Arrays & Hashing
-- [x] 217. Contains Duplicate
-- [x] 242. Valid Anagram
-- [x] 1. Two Sum
-- [ ] 49. Group Anagrams
+- [x] 217. Contains Duplicate https://youtu.be/pHbA9Wsf70Q
+- [x] 242. Valid Anagram https://youtu.be/vP7vRFLYVac
+- [x] 1. Two Sum https://youtu.be/7FLJeTp6KHw
+- [x] 49. Group Anagrams
 - [ ] 347. Top K Frequent Elements
 - [ ] 238. Product of Array Except Self
 - [ ] 36. Valid Sudoku
