@@ -6,7 +6,7 @@
 - [x] 1. Two Sum https://youtu.be/7FLJeTp6KHw
 - [x] 49. Group Anagrams https://youtu.be/Tkjfj-3hO7s
 - [x] 347. Top K Frequent Elements https://youtu.be/n-DJHtpSwr0
-- [ ] 238. Product of Array Except Self
+- [x] 238. Product of Array Except Self
 - [ ] 271. Encode and Decode Strings
 - [ ] 128. Longest Consecutive Sequence
 
