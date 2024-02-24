@@ -7,7 +7,6 @@
 - [x] 49. Group Anagrams https://youtu.be/Tkjfj-3hO7s
 - [x] 347. Top K Frequent Elements https://youtu.be/n-DJHtpSwr0
 - [ ] 238. Product of Array Except Self
-- [ ] 36. Valid Sudoku
 - [ ] 271. Encode and Decode Strings
 - [ ] 128. Longest Consecutive Sequence
 
