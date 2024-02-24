@@ -4,7 +4,7 @@
 - [x] 217. Contains Duplicate https://youtu.be/pHbA9Wsf70Q
 - [x] 242. Valid Anagram https://youtu.be/vP7vRFLYVac
 - [x] 1. Two Sum https://youtu.be/7FLJeTp6KHw
-- [x] 49. Group Anagrams
+- [x] 49. Group Anagrams https://youtu.be/Tkjfj-3hO7s
 - [ ] 347. Top K Frequent Elements
 - [ ] 238. Product of Array Except Self
 - [ ] 36. Valid Sudoku
