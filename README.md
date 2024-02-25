@@ -7,7 +7,7 @@
 - [x] **49. Group Anagrams** https://youtu.be/Tkjfj-3hO7s
 - [x] **347. Top K Frequent Elements** https://youtu.be/n-DJHtpSwr0
 - [x] 238. Product of Array Except Self https://youtu.be/Z7rv2Bk6k_Q
-- [x] 271. Encode and Decode Strings
+- [x] 271. Encode and Decode Strings https://youtu.be/HW5cEDI0J4c
 - [x] 128. Longest Consecutive Sequence
 
 ## Two Pointers
