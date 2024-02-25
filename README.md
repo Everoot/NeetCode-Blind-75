@@ -11,7 +11,7 @@
 - [x] 128. Longest Consecutive Sequence https://youtu.be/O3XVEhIPwrI
 
 ## Two Pointers
-- [x] 125. Valid Palindrome
+- [x] 125. Valid Palindrome https://youtu.be/SPhaAvHRll8
 - [ ] 15. 3Sum
 - [ ] 11. Container With Most Water
 
