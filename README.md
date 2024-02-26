@@ -12,8 +12,8 @@
 
 ## Two Pointers
 - [x] 125. Valid Palindrome https://youtu.be/SPhaAvHRll8
-- [ ] 15. 3Sum
-- [ ] 11. Container With Most Water
+- [x] **15. 3Sum**
+- [x] **11. Container With Most Water**
 
 ## Sliding Window
 - [ ] 121. Best Time to Buy and Sell Stock
