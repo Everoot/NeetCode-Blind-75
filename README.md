@@ -16,10 +16,10 @@
 - [x] **11. Container With Most Water** https://youtu.be/YFA_MoXC7dg
 
 ## Sliding Window
-- [ ] 121. Best Time to Buy and Sell Stock
-- [ ] 3. Longest Substring Without Repeating Characters
-- [ ] 424. Longest Repeating Character Replacement
-- [ ] 76. Minimum Window Substring
+- [x] 121. Best Time to Buy and Sell Stock
+- [x] 3. Longest Substring Without Repeating Characters
+- [x] 424. Longest Repeating Character Replacement
+- [x] 76. Minimum Window Substring
 
 ## Stack
 - [ ] 20. Valid Parentheses
