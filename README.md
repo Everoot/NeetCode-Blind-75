@@ -12,7 +12,7 @@
 
 ## Two Pointers
 - [x] 125. Valid Palindrome https://youtu.be/SPhaAvHRll8
-- [x] **15. 3Sum**
+- [x] **15. 3Sum** https://youtu.be/HZwDDFv_XfM
 - [x] **11. Container With Most Water**
 
 ## Sliding Window
