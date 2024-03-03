@@ -18,7 +18,7 @@
 ## Sliding Window
 - [x] 121. Best Time to Buy and Sell Stock https://youtu.be/VW_73t8qp2k
 - [x] **3. Longest Substring Without Repeating Characters** https://youtu.be/jbx1llNXSTo
-- [x] **424. Longest Repeating Character Replacement**
+- [x] **424. Longest Repeating Character Replacement** https://youtu.be/stnJAO7Yp1E
 - [x] 76. Minimum Window Substring
 
 ## Stack
