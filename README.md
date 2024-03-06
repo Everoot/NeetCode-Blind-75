@@ -33,7 +33,7 @@
 - [ ] 21. Merge Two Sorted Lists
 - [ ] 143. Reorder List
 - [x] 19. Remove Nth Node From End of List https://youtu.be/vf9hoZH1Fg0
-- [x] 141. Linked List Cycle
+- [x] 141. Linked List Cycle https://youtu.be/t40dShmMF7M
 - [ ] 23. Merge k Sorted Lists
 
 ## Tree
