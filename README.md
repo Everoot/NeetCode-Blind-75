@@ -22,7 +22,7 @@
 - [x] **76. Minimum Window Substring** https://youtu.be/l1GSRhAIJWU
 
 ## Stack
-- [ ] 20. Valid Parentheses
+- [x] 20. Valid Parentheses https://youtu.be/0Wwm9v-hQuA
 
 ## Binary Search
 - [ ] 153. Find Minimum in Rotated Sorted Array
