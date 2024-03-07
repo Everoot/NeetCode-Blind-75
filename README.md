@@ -25,7 +25,7 @@
 - [x] 20. Valid Parentheses https://youtu.be/0Wwm9v-hQuA
 
 ## Binary Search
-- [ ] 153. Find Minimum in Rotated Sorted Array
+- [x] **153. Find Minimum in Rotated Sorted Array** https://youtu.be/wqDW1VQan28
 - [ ] 33. Search in Rotated Sorted Array
 
 ## Linked List
