@@ -26,7 +26,7 @@
 
 ## Binary Search
 - [x] **153. Find Minimum in Rotated Sorted Array** https://youtu.be/wqDW1VQan28
-- [ ] 33. Search in Rotated Sorted Array
+- [x] **33. Search in Rotated Sorted Array** https://youtu.be/uULPqLY0DbE
 
 ## Linked List
 - [ ] 206. Reverse Linked List
