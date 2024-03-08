@@ -29,8 +29,8 @@
 - [x] **33. Search in Rotated Sorted Array** https://youtu.be/uULPqLY0DbE
 
 ## Linked List
-- [ ] 206. Reverse Linked List
-- [ ] 21. Merge Two Sorted Lists
+- [x] 206. Reverse Linked List https://youtu.be/bBRoUkk9Yvo
+- [x] 21. Merge Two Sorted Lists https://youtu.be/WWa3ofcTZg8
 - [ ] 143. Reorder List
 - [x] 19. Remove Nth Node From End of List https://youtu.be/vf9hoZH1Fg0
 - [x] 141. Linked List Cycle https://youtu.be/t40dShmMF7M
