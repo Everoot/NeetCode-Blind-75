@@ -31,10 +31,10 @@
 ## Linked List
 - [x] 206. Reverse Linked List https://youtu.be/bBRoUkk9Yvo
 - [x] 21. Merge Two Sorted Lists https://youtu.be/WWa3ofcTZg8
-- [ ] 143. Reorder List
+- [x] **143. Reorder List**
 - [x] 19. Remove Nth Node From End of List https://youtu.be/vf9hoZH1Fg0
 - [x] 141. Linked List Cycle https://youtu.be/t40dShmMF7M
-- [ ] 23. Merge k Sorted Lists
+- [x] **23. Merge k Sorted Lists**
 
 ## Tree
 - [ ] 226. Invert Binary Tree
