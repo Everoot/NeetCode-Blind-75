@@ -34,7 +34,7 @@
 - [x] **143. Reorder List** https://youtu.be/gPHCpesm3H4
 - [x] 19. Remove Nth Node From End of List https://youtu.be/vf9hoZH1Fg0
 - [x] 141. Linked List Cycle https://youtu.be/t40dShmMF7M
-- [x] **23. Merge k Sorted Lists**
+- [x] **23. Merge k Sorted Lists** https://youtu.be/Q8_P1wj5JuA
 
 ## Tree
 - [ ] 226. Invert Binary Tree
