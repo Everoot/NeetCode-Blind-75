@@ -31,7 +31,7 @@
 ## Linked List
 - [x] 206. Reverse Linked List https://youtu.be/bBRoUkk9Yvo
 - [x] 21. Merge Two Sorted Lists https://youtu.be/WWa3ofcTZg8
-- [x] **143. Reorder List**
+- [x] **143. Reorder List** https://youtu.be/gPHCpesm3H4
 - [x] 19. Remove Nth Node From End of List https://youtu.be/vf9hoZH1Fg0
 - [x] 141. Linked List Cycle https://youtu.be/t40dShmMF7M
 - [x] **23. Merge k Sorted Lists**
