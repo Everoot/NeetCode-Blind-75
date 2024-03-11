@@ -38,7 +38,7 @@
 
 ## Tree
 - [x] 226. Invert Binary Tree https://youtu.be/A8GNxVF08Io
-- [ ] 104. Maximum Depth of Binary Tree
+- [x] 104. Maximum Depth of Binary Tree
 - [ ] 100. Same Tree
 - [ ] 572. Subtree of Another Tree
 - [ ] 235. Lowest Common Ancestor of a Binary Search Tree
