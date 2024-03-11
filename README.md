@@ -37,7 +37,7 @@
 - [x] **23. Merge k Sorted Lists** https://youtu.be/Q8_P1wj5JuA
 
 ## Tree
-- [ ] 226. Invert Binary Tree
+- [x] 226. Invert Binary Tree https://youtu.be/A8GNxVF08Io
 - [ ] 104. Maximum Depth of Binary Tree
 - [ ] 100. Same Tree
 - [ ] 572. Subtree of Another Tree
