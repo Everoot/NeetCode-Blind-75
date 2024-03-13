@@ -41,9 +41,9 @@
 - [x] 104. Maximum Depth of Binary Tree https://youtu.be/RjxT1eCBuRE
 - [x] 100. Same Tree https://youtu.be/UcDyc6NdyzQ
 - [x] 572. Subtree of Another Tree https://youtu.be/NSQai9olWlI
-- [ ] **235. Lowest Common Ancestor of a Binary Search Tree**
-- [ ] 102. Binary Tree Level Order Traversal
-- [ ] 98. Validate Binary Search Tree
+- [x] **235. Lowest Common Ancestor of a Binary Search Tree** https://youtu.be/bWJIkU8kyVs
+- [x] 102. Binary Tree Level Order Traversal
+- [x] 98. Validate Binary Search Tree
 - [ ] 230. Kth Smallest Element in a BST
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] 124. Binary Tree Maximum Path Sum
