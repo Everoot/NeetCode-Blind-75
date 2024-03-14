@@ -44,7 +44,7 @@
 - [x] **235. Lowest Common Ancestor of a Binary Search Tree** https://youtu.be/bWJIkU8kyVs
 - [x] **102. Binary Tree Level Order Traversal** https://youtu.be/6M7UqesaDTQ
 - [x] **98. Validate Binary Search Tree** https://youtu.be/JY-fUfmNfxg
-- [ ] 230. Kth Smallest Element in a BST
+- [x] 230. Kth Smallest Element in a BST 
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] 124. Binary Tree Maximum Path Sum
 - [ ] 297. Serialize and Deserialize Binary Tree
