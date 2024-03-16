@@ -46,7 +46,7 @@
 - [x] **98. Validate Binary Search Tree** https://youtu.be/JY-fUfmNfxg
 - [x] 230. Kth Smallest Element in a BST https://youtu.be/wrpY6yElCsI
 - [x] **105. Construct Binary Tree from Preorder and Inorder Traversal** https://youtu.be/aAyimkWd_Cc
-- [ ] 124. Binary Tree Maximum Path Sum
+- [x] **124. Binary Tree Maximum Path Sum** https://youtu.be/CRj5u8xFgug
 - [ ] 297. Serialize and Deserialize Binary Tree
 
 ## Trie
