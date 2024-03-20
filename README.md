@@ -49,17 +49,17 @@
 - [x] **124. Binary Tree Maximum Path Sum** https://youtu.be/CRj5u8xFgug
 - [x] **297. Serialize and Deserialize Binary Tree** https://youtu.be/DjGBNsqJlsI
 
-## Trie
-- [ ] 208. Implement Trie (Prefix Tree)
-- [ ] 211. Design Add and Search Words Data Structure
-- [ ] 212. Word Search II
-
 ## Heap/PriorityQueue
 - [ ] 295. Find Median from Data Stream
 
 ## Backtracking
 - [ ] 39. Combination Sum
 - [ ] 79. Word Search
+
+## Trie
+- [ ] 208. Implement Trie (Prefix Tree)
+- [ ] 211. Design Add and Search Words Data Structure
+- [ ] 212. Word Search II
 
 ## Graphs
 - [ ] 200. Number of Islands
