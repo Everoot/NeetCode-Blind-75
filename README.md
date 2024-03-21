@@ -53,7 +53,7 @@
 - [x] **295. Find Median from Data Stream** https://youtu.be/B7BO0vdtkQ4
 
 ## Backtracking
-- [ ] 39. Combination Sum
+- [x] **39. Combination Sum** https://youtu.be/lsX_jIAVS_Q
 - [ ] 79. Word Search
 
 ## Trie
