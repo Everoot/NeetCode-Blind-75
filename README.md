@@ -57,7 +57,7 @@
 - [x] 79. Word Search https://youtu.be/2g1vGXlUoYM
 
 ## Trie
-- [ ] 208. Implement Trie (Prefix Tree)
+- [x] **208. Implement Trie (Prefix Tree)** https://youtu.be/yGXn5xD1n6s
 - [ ] 211. Design Add and Search Words Data Structure
 - [ ] 212. Word Search II
 
