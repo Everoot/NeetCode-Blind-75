@@ -54,7 +54,7 @@
 
 ## Backtracking
 - [x] **39. Combination Sum** https://youtu.be/lsX_jIAVS_Q
-- [ ] 79. Word Search
+- [x] 79. Word Search https://youtu.be/2g1vGXlUoYM
 
 ## Trie
 - [ ] 208. Implement Trie (Prefix Tree)
