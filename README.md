@@ -54,12 +54,12 @@
 
 ## Backtracking
 - [x] **39. Combination Sum** https://youtu.be/lsX_jIAVS_Q
-- [x] 79. Word Search https://youtu.be/2g1vGXlUoYM
+- [x] 79. Word Search https://youtu.be/2g1vGXlUoYM 
 
 ## Trie
 - [x] **208. Implement Trie (Prefix Tree)** https://youtu.be/yGXn5xD1n6s
 - [x] **211. Design Add and Search Words Data Structure** https://youtu.be/5onz2ZrFZmk
-- [ ] **212. Word Search II**
+- [x] **212. Word Search II** https://youtu.be/FLWcWSe_XMs
 
 ## Graphs
 - [ ] 200. Number of Islands
