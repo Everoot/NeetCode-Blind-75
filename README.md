@@ -66,7 +66,7 @@
 - [x] **133. Clone Graph** https://youtu.be/j-m__EMDKp8
 - [x] **417. Pacific Atlantic Water Flow** https://youtu.be/AG18MJAru_w
 - [x] **207. Course Schedule** https://youtu.be/TUn2CxDaXks
-- [ ] 323. Number of Connected Components in an Undirected Graph
+- [x] 323. Number of Connected Components in an Undirected Graph https://youtu.be/B1hte_hB-t8
 - [ ] 261. Graph Valid Tree
 
 ## Advanced Graphs
