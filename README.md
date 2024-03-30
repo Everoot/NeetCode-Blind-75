@@ -67,7 +67,7 @@
 - [x] **417. Pacific Atlantic Water Flow** https://youtu.be/AG18MJAru_w
 - [x] **207. Course Schedule** https://youtu.be/TUn2CxDaXks
 - [x] 323. Number of Connected Components in an Undirected Graph https://youtu.be/B1hte_hB-t8
-- [ ] 261. Graph Valid Tree
+- [x] **261. Graph Valid Tree** https://youtu.be/7ViZM1hyrUo
 
 ## Advanced Graphs
 - [ ] 269. Alien Dictionary
