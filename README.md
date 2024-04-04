@@ -70,7 +70,7 @@
 - [x] **261. Graph Valid Tree** https://youtu.be/7ViZM1hyrUo
 
 ## Advanced Graphs
-- [ ] **269. Alien Dictionary**
+- [x] **269. Alien Dictionary** https://youtu.be/If2BlmCgO4E
 
 ## 1-D DP
 - [ ] 70. Climbing Stairs
