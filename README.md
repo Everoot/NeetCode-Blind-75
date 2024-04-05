@@ -73,7 +73,7 @@
 - [x] **269. Alien Dictionary** https://youtu.be/If2BlmCgO4E
 
 ## 1-D DP
-- [ ] 70. Climbing Stairs
+- [x] 70. Climbing Stairs https://youtu.be/FgBaln225vA
 - [ ] 198. House Robber
 - [ ] 213. House Robber II
 - [ ] 5. Longest Palindromic Substring
