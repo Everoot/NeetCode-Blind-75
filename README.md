@@ -74,7 +74,7 @@
 
 ## 1-D DP
 - [x] 70. Climbing Stairs https://youtu.be/FgBaln225vA
-- [ ] 198. House Robber
+- [x] 198. House Robber https://youtu.be/1tinkA1TxBY
 - [ ] 213. House Robber II
 - [ ] 5. Longest Palindromic Substring
 - [ ] 647. Palindromic Substrings
