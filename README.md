@@ -77,7 +77,7 @@
 - [x] 198. House Robber https://youtu.be/1tinkA1TxBY
 - [x] **213. House Robber II** https://youtu.be/EWp0jYPry9o
 - [x] **5. Longest Palindromic Substring** https://youtu.be/f8-XWwv_ZSs
-- [x] 647. Palindromic Substrings 647. Palindromic Substrings
+- [x] 647. Palindromic Substrings https://youtu.be/l5v1VNXn9CQ
 - [ ] 91. Decode Ways
 - [ ] 322. Coin Change
 - [ ] 152. Maximum Product Subarray
