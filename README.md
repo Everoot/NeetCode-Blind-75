@@ -76,7 +76,7 @@
 - [x] 70. Climbing Stairs https://youtu.be/FgBaln225vA
 - [x] 198. House Robber https://youtu.be/1tinkA1TxBY
 - [x] **213. House Robber II** https://youtu.be/EWp0jYPry9o
-- [ ] **5. Longest Palindromic Substring**
+- [x] **5. Longest Palindromic Substring** https://youtu.be/f8-XWwv_ZSs
 - [ ] 647. Palindromic Substrings
 - [ ] 91. Decode Ways
 - [ ] 322. Coin Change
