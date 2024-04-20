@@ -79,7 +79,7 @@
 - [x] **5. Longest Palindromic Substring** https://youtu.be/f8-XWwv_ZSs
 - [x] 647. Palindromic Substrings https://youtu.be/l5v1VNXn9CQ
 - [x] **91. Decode Ways** https://youtu.be/uqLEHEyZiGs
-- [x] **322. Coin Change**
+- [x] **322. Coin Change** https://youtu.be/3Yh_POxjGfM
 - [x] 152. Maximum Product Subarray
 - [x] 139. Word Break
 - [x] 300. Longest Increasing Subsequence
