@@ -86,7 +86,7 @@
 
 ## 2-D DP
 - [x] 62. Unique Paths https://youtu.be/28-rAI9tjLs
-- [ ] 1143. Longest Common Subsequence
+- [x] 1143. Longest Common Subsequence https://youtu.be/pst_1UEJx7g
 
 ## Greedy
 - [ ] 53. Maximum Subarray
