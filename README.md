@@ -81,8 +81,8 @@
 - [x] **91. Decode Ways** https://youtu.be/uqLEHEyZiGs
 - [x] **322. Coin Change** https://youtu.be/3Yh_POxjGfM
 - [x] 152. Maximum Product Subarray https://youtu.be/fEb8Jm-Ov0A
-- [x] 139. Word Break
-- [x] 300. Longest Increasing Subsequence
+- [x] 139. Word Break https://youtu.be/fEb8Jm-Ov0A
+- [x] 300. Longest Increasing Subsequence 
 
 ## 2-D DP
 - [ ] 62. Unique Paths
