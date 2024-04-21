@@ -85,7 +85,7 @@
 - [x] 300. Longest Increasing Subsequence https://youtu.be/XAvrVTbL7j8
 
 ## 2-D DP
-- [ ] 62. Unique Paths
+- [x] 62. Unique Paths https://youtu.be/28-rAI9tjLs
 - [ ] 1143. Longest Common Subsequence
 
 ## Greedy
