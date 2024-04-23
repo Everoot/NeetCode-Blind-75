@@ -89,7 +89,7 @@
 - [x] 1143. Longest Common Subsequence https://youtu.be/pst_1UEJx7g
 
 ## Greedy
-- [x] 53. Maximum Subarray
+- [x] 53. Maximum Subarray https://youtu.be/VXLu7ACJb60
 - [x] 55. Jump Game
 
 ## Intervals
