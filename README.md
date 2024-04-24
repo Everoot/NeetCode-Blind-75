@@ -90,7 +90,7 @@
 
 ## Greedy
 - [x] 53. Maximum Subarray https://youtu.be/VXLu7ACJb60
-- [x] 55. Jump Game
+- [x] 55. Jump Game https://youtu.be/l1lQZ03eUvM
 
 ## Intervals
 - [ ] 57. Insert Interval
