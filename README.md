@@ -97,7 +97,7 @@
 - [x] **56. Merge Intervals** https://youtu.be/0vwYTCK5Uco 
 - [x] 435. Non-overlapping Intervals https://youtu.be/w8bfWJCT0cw
 - [x] 252. Meeting Rooms https://youtu.be/63Q1dHeLoek
-- [ ] 253. Meeting Rooms II
+- [x] 253. Meeting Rooms II https://youtu.be/22z3KNCe6q4
 
 ## Math & Geometry
 - [ ] 48. Rotate Image
