@@ -105,8 +105,8 @@
 - [ ] 73. Set Matrix Zeroes
 
 ## Bit Manipulation
-- [ ] 191. Number of 1 Bits
+- [x] 191. Number of 1 Bits https://youtu.be/grB7zwCot20
 - [ ] 338. Counting Bits
 - [ ] 190. Reverse Bits
-- [ ] 268. Missing Number
+- [x] 268. Missing Number https://youtu.be/bNIpapq8a10
 - [ ] 371. Sum of Two Integers
