@@ -95,7 +95,7 @@
 ## Intervals
 - [x] **57. Insert Interval** https://youtu.be/tA6faod5ooY
 - [x] **56. Merge Intervals** https://youtu.be/0vwYTCK5Uco 
-- [ ] 435. Non-overlapping Intervals
+- [x] 435. Non-overlapping Intervals https://youtu.be/w8bfWJCT0cw
 - [ ] 252. Meeting Rooms
 - [ ] 253. Meeting Rooms II
 
