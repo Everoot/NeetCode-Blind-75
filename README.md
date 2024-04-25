@@ -93,7 +93,7 @@
 - [x] 55. Jump Game https://youtu.be/l1lQZ03eUvM
 
 ## Intervals
-- [ ] 57. Insert Interval
+- [x] **57. Insert Interval** https://youtu.be/tA6faod5ooY
 - [ ] 56. Merge Intervals
 - [ ] 435. Non-overlapping Intervals
 - [ ] 252. Meeting Rooms
