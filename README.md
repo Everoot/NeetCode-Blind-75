@@ -102,11 +102,11 @@
 ## Math & Geometry
 - [x] **48. Rotate Image** https://youtu.be/Y59tBb5NYgw
 - [x] **54. Spiral Matrix**
-- [ ] 73. Set Matrix Zeroes
+- [x] 73. Set Matrix Zeroes
 
 ## Bit Manipulation
 - [x] 191. Number of 1 Bits https://youtu.be/grB7zwCot20
-- [ ] 338. Counting Bits
-- [ ] 190. Reverse Bits
+- [x] 338. Counting Bits
+- [x] 190. Reverse Bits
 - [x] 268. Missing Number https://youtu.be/bNIpapq8a10
-- [ ] 371. Sum of Two Integers
+- [x] 371. Sum of Two Integers
