@@ -100,7 +100,7 @@
 - [x] 253. Meeting Rooms II https://youtu.be/22z3KNCe6q4
 
 ## Math & Geometry
-- [ ] 48. Rotate Image
+- [x] **48. Rotate Image** https://youtu.be/Y59tBb5NYgw
 - [ ] 54. Spiral Matrix
 - [ ] 73. Set Matrix Zeroes
 
