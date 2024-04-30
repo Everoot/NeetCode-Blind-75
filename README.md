@@ -101,7 +101,7 @@
 
 ## Math & Geometry
 - [x] **48. Rotate Image** https://youtu.be/Y59tBb5NYgw
-- [x] **54. Spiral Matrix**
+- [x] **54. Spiral Matrix** https://youtu.be/NqQgZWALwJU
 - [x] **73. Set Matrix Zeroes**
 
 ## Bit Manipulation
