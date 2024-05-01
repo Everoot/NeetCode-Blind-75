@@ -106,7 +106,7 @@
 
 ## Bit Manipulation
 - [x] 191. Number of 1 Bits https://youtu.be/grB7zwCot20
-- [x] 338. Counting Bits
+- [x] 338. Counting Bits https://youtu.be/VKmMqIkKqvE
 - [x] 190. Reverse Bits
 - [x] 268. Missing Number https://youtu.be/bNIpapq8a10
 - [x] 371. Sum of Two Integers
